@@ -1,0 +1,11 @@
+{
+    "name": "banit",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node index.js", // Adjust 'index.js' to your entry file
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        // your dependencies here
+    }
+}
